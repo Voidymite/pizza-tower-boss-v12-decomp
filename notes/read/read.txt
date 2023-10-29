@@ -1,0 +1,1 @@
+dont mess with any of these init scripts or gamemaker will fucking shit itself when the game builds
