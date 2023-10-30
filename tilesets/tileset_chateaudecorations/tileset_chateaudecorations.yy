@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tileset_chateaudecorations",
   "spriteId": {
     "name": "tileset_chateaudecorations_sprite",
-    "path": "sprites/tileset_chateaudecorations_sprite/tileset_chateaudecorations_sprite.yy"
+    "path": "sprites/tileset_chateaudecorations_sprite/tileset_chateaudecorations_sprite.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,
@@ -12,12 +15,12 @@
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
-    "path": "texturegroups/Default"
+    "path": "texturegroups/Default",
   },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 13,
-  "tile_count": 174,
+  "tile_count": 182,
   "autoTileSets": [],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -196,22 +199,25 @@
       170,
       171,
       172,
-      173
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
     ],
-    "SerialiseFrameCount": 1
+    "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "TileDataFormat": 0,
     "SerialiseWidth": 0,
     "SerialiseHeight": 0,
-    "TileSerialiseData": []
+    "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy"
+    "name": "Pizzascare",
+    "path": "folders/Tile Sets/Levels/Pizzascare.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tileset_chateaudecorations",
-  "tags": [],
-  "resourceType": "GMTileSet"
 }

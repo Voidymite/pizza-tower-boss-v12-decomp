@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_desert_tileset",
   "spriteId": {
     "name": "tile_desert_tileset_sprite",
-    "path": "sprites/tile_desert_tileset_sprite/tile_desert_tileset_sprite.yy"
+    "path": "sprites/tile_desert_tileset_sprite/tile_desert_tileset_sprite.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,
@@ -12,7 +15,7 @@
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "texture_tilesets",
-    "path": "texturegroups/texture_tilesets"
+    "path": "texturegroups/texture_tilesets",
   },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
@@ -232,22 +235,17 @@
       206,
       207,
       208,
-      209
+      209,
     ],
-    "SerialiseFrameCount": 1
+    "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "TileDataFormat": 0,
     "SerialiseWidth": 0,
     "SerialiseHeight": 0,
-    "TileSerialiseData": []
+    "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy"
+    "name": "Oregano Desert",
+    "path": "folders/Tile Sets/Levels/Oregano Desert.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_desert_tileset",
-  "tags": [],
-  "resourceType": "GMTileSet"
 }

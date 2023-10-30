@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tile_pizzamart",
   "spriteId": {
     "name": "tile_pizzamart_sprite",
-    "path": "sprites/tile_pizzamart_sprite/tile_pizzamart_sprite.yy"
+    "path": "sprites/tile_pizzamart_sprite/tile_pizzamart_sprite.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,
@@ -12,12 +15,12 @@
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
-    "path": "texturegroups/Default"
+    "path": "texturegroups/Default",
   },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 6,
-  "tile_count": 40,
+  "tile_count": 42,
   "autoTileSets": [],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -62,22 +65,19 @@
       36,
       37,
       38,
-      39
+      39,
+      40,
+      41,
     ],
-    "SerialiseFrameCount": 1
+    "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "TileDataFormat": 0,
     "SerialiseWidth": 0,
     "SerialiseHeight": 0,
-    "TileSerialiseData": []
+    "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy"
+    "name": "Levels",
+    "path": "folders/Tile Sets/Levels.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tile_pizzamart",
-  "tags": [],
-  "resourceType": "GMTileSet"
 }

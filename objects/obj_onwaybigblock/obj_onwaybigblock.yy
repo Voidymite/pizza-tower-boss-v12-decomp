@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_onwaybigblock",
   "spriteId": {
-    "name": "obj_onewaybigblock",
-    "path": "sprites/obj_onewaybigblock/obj_onewaybigblock.yy",
+    "name": "spr_onewaybigblock",
+    "path": "sprites/spr_onewaybigblock/spr_onewaybigblock.yy",
   },
   "solid": false,
   "visible": true,

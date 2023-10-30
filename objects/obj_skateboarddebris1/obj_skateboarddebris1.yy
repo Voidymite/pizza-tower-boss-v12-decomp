@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_skateboarddebris1",
   "spriteId": {
-    "name": "obj_skateboardebris1",
-    "path": "sprites/obj_skateboardebris1/obj_skateboardebris1.yy",
+    "name": "spr_skateboardebris1",
+    "path": "sprites/spr_skateboardebris1/spr_skateboardebris1.yy",
   },
   "solid": false,
   "visible": true,

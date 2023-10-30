@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "tileset_strongcolddecoration",
   "spriteId": {
     "name": "tileset_strongcolddecoration_sprite",
-    "path": "sprites/tileset_strongcolddecoration_sprite/tileset_strongcolddecoration_sprite.yy"
+    "path": "sprites/tileset_strongcolddecoration_sprite/tileset_strongcolddecoration_sprite.yy",
   },
   "tileWidth": 32,
   "tileHeight": 32,
@@ -12,12 +15,12 @@
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
-    "path": "texturegroups/Default"
+    "path": "texturegroups/Default",
   },
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "out_columns": 14,
-  "tile_count": 198,
+  "tile_count": 210,
   "autoTileSets": [],
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
@@ -220,22 +223,29 @@
       194,
       195,
       196,
-      197
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
     ],
-    "SerialiseFrameCount": 1
+    "SerialiseFrameCount": 1,
   },
   "macroPageTiles": {
-    "TileDataFormat": 0,
     "SerialiseWidth": 0,
     "SerialiseHeight": 0,
-    "TileSerialiseData": []
+    "TileSerialiseData": [],
   },
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy"
+    "name": "Strongcold",
+    "path": "folders/Tile Sets/Levels/Strongcold.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "tileset_strongcolddecoration",
-  "tags": [],
-  "resourceType": "GMTileSet"
 }

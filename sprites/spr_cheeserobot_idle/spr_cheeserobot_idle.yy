@@ -72,7 +72,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cheese Robot",
+    "path": "folders/Sprites/Baddie/Enemy/Cheese Robot.yy",
   },
 }
