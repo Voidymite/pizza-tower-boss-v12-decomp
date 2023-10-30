@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scr_player_tacklecharge",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Player States",
+    "path": "folders/Scripts/Player States.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_player_tacklecharge",
-  "tags": [],
-  "resourceType": "GMScript"
 }

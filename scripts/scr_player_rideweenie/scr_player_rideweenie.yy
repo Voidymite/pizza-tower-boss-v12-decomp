@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scr_player_rideweenie",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Player States",
+    "path": "folders/Scripts/Player States.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_player_rideweenie",
-  "tags": [],
-  "resourceType": "GMScript"
 }

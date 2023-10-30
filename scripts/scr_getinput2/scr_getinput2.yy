@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scr_getinput2",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Misc",
+    "path": "folders/Scripts/Systems/Game/Misc.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_getinput2",
-  "tags": [],
-  "resourceType": "GMScript"
 }

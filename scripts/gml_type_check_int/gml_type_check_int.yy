@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "gml_type_check_int",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Funcs and Stuff",
+    "path": "folders/Scripts/Systems/Funcs and Stuff.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "gml_type_check_int",
-  "tags": [],
-  "resourceType": "GMScript"
 }

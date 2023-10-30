@@ -1,5 +1,6 @@
 function scr_characterspr()
 {
+	// note: i would add ";" to each variable but im way too lazy for that
 	if (character == "P")
 	{
 	    spr_idle = spr_player_idle
@@ -14,7 +15,7 @@ function scr_characterspr()
 	    spr_crouch = spr_player_crouch
 	    spr_crouchjump = spr_player_crouchjump
 	    spr_crouchfall = spr_player_crouchfall
-	    spr_couchstart = spr_player_couchstart
+	    spr_couchstart = spr_player_couchstart // mcpig knew absolutely what he was fucking doing. he misspelt this variable AND constant TWICE. TWICE. I HATE YOU MCPIG FUCK YOU WHY WOULD YOU DO THIS MY EYES HURT I HATE YOU OH MY G
 	    spr_bump = spr_player_bump
 	    spr_land = spr_player_land
 	    spr_land2 = spr_player_land2
@@ -289,7 +290,7 @@ function scr_characterspr()
 	    spr_stunned = spr_playerN_stunned
 	    spr_downpizzabox = spr_playerN_downpizzabox
 	    spr_uppizzabox = spr_playerN_uppizzabox
-	    spr_taunt = spr_playerN_dab
+	    spr_taunt = spr_playerN_taunt
 	    spr_slipnslide = spr_playerN_slipnslide
 	    spr_mach3boost = spr_playerN_mach3boost
 	    spr_facehurtup = spr_playerN_facehurtup

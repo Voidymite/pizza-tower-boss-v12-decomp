@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "room_set_live",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Funcs and Stuff",
+    "path": "folders/Scripts/Systems/Funcs and Stuff.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "room_set_live",
-  "tags": [],
-  "resourceType": "GMScript"
 }

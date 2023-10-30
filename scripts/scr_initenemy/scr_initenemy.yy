@@ -1,12 +1,11 @@
 {
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "scr_initenemy",
   "isDnD": false,
   "isCompatibility": true,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy"
+    "name": "Init",
+    "path": "folders/Scripts/Systems/Init.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_initenemy",
-  "tags": [],
-  "resourceType": "GMScript"
 }
