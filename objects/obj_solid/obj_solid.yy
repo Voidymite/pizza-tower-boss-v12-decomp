@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_solid",
   "spriteId": {
     "name": "spr_wall",
-    "path": "sprites/spr_wall/spr_wall.yy"
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "solid": false,
   "visible": false,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Solids",
+    "path": "folders/Objects/Level Stuff/Solids.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_solid",
-  "tags": [],
-  "resourceType": "GMObject"
 }

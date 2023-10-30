@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_throwableparent",
   "spriteId": null,
   "solid": false,
   "visible": true,
@@ -22,11 +25,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Other Parents",
+    "path": "folders/Objects/Other Parents.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_throwableparent",
-  "tags": [],
-  "resourceType": "GMObject"
 }

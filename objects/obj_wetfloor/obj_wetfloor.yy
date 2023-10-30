@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_wetfloor",
   "spriteId": {
     "name": "spr_wetfloor",
-    "path": "sprites/spr_wetfloor/spr_wetfloor.yy"
+    "path": "sprites/spr_wetfloor/spr_wetfloor.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,28 +25,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_player",
-        "path": "objects/obj_player/obj_player.yy"
-      },
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    }
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Unused",
+    "path": "folders/Objects/Unused.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_wetfloor",
-  "tags": [],
-  "resourceType": "GMObject"
 }

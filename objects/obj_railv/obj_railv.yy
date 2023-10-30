@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_railv",
   "spriteId": {
     "name": "spr_railv",
-    "path": "sprites/spr_railv/spr_railv.yy"
+    "path": "sprites/spr_railv/spr_railv.yy",
   },
   "solid": false,
   "visible": true,
@@ -10,7 +13,7 @@
   "persistent": false,
   "parentObjectId": {
     "name": "obj_solid",
-    "path": "objects/obj_solid/obj_solid.yy"
+    "path": "objects/obj_solid/obj_solid.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -25,25 +28,12 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    }
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Building Blocks",
+    "path": "folders/Objects/Level Stuff/Building Blocks.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_railv",
-  "tags": [],
-  "resourceType": "GMObject"
 }

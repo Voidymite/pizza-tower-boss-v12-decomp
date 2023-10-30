@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_hard",
   "spriteId": {
     "name": "spr_hard",
-    "path": "sprites/spr_hard/spr_hard.yy"
+    "path": "sprites/spr_hard/spr_hard.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Unused",
+    "path": "folders/Objects/Unused.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_hard",
-  "tags": [],
-  "resourceType": "GMObject"
 }

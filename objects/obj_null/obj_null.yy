@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_null",
   "spriteId": null,
   "solid": false,
   "visible": true,
@@ -22,11 +25,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Miscellaneous",
+    "path": "folders/Objects/Miscellaneous.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_null",
-  "tags": [],
-  "resourceType": "GMObject"
 }

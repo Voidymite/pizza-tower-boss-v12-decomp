@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_slope",
   "spriteId": {
     "name": "spr_slope",
-    "path": "sprites/spr_slope/spr_slope.yy"
+    "path": "sprites/spr_slope/spr_slope.yy",
   },
   "solid": false,
   "visible": false,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Solids",
+    "path": "folders/Objects/Level Stuff/Solids.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_slope",
-  "tags": [],
-  "resourceType": "GMObject"
 }

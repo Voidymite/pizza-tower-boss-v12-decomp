@@ -1,14 +1,17 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_pizzagoblinbomb",
   "spriteId": {
     "name": "spr_bomb",
-    "path": "sprites/spr_bomb/spr_bomb.yy"
+    "path": "sprites/spr_bomb/spr_bomb.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": {
     "name": "spr_bomb",
-    "path": "sprites/spr_bomb/spr_bomb.yy"
+    "path": "sprites/spr_bomb/spr_bomb.yy",
   },
   "persistent": false,
   "parentObjectId": null,
@@ -25,81 +28,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 3,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_bombexplosion",
-        "path": "objects/obj_bombexplosion/obj_bombexplosion.yy"
-      },
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_boilingsauce",
-        "path": "objects/obj_boilingsauce/obj_boilingsauce.yy"
-      },
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 4,
-      "eventType": 7,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 8,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    }
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bombexplosion","path":"objects/obj_bombexplosion/obj_bombexplosion.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_boilingsauce","path":"objects/obj_boilingsauce/obj_boilingsauce.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Enemy",
+    "path": "folders/Objects/Baddie/Enemy.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_pizzagoblinbomb",
-  "tags": [],
-  "resourceType": "GMObject"
 }

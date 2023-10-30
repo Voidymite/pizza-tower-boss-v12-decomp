@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_ufotransition",
   "spriteId": {
     "name": "spr_transitionufo",
-    "path": "sprites/spr_transitionufo/spr_transitionufo.yy"
+    "path": "sprites/spr_transitionufo/spr_transitionufo.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,35 +25,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 3,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    }
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "FX",
+    "path": "folders/Objects/FX.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_ufotransition",
-  "tags": [],
-  "resourceType": "GMObject"
 }

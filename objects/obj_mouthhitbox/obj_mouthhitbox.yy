@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_mouthhitbox",
   "spriteId": {
     "name": "spr_mouthhitbox",
-    "path": "sprites/spr_mouthhitbox/spr_mouthhitbox.yy"
+    "path": "sprites/spr_mouthhitbox/spr_mouthhitbox.yy",
   },
   "solid": false,
   "visible": false,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Unused",
+    "path": "folders/Objects/Unused.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_mouthhitbox",
-  "tags": [],
-  "resourceType": "GMObject"
 }

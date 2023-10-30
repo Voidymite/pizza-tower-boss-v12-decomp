@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_platform",
   "spriteId": {
     "name": "spr_baddie",
-    "path": "sprites/spr_baddie/spr_baddie.yy"
+    "path": "sprites/spr_baddie/spr_baddie.yy",
   },
   "solid": false,
   "visible": false,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Solids",
+    "path": "folders/Objects/Level Stuff/Solids.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_platform",
-  "tags": [],
-  "resourceType": "GMObject"
 }

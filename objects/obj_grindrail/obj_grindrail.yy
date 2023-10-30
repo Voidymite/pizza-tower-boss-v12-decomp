@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_grindrail",
   "spriteId": {
     "name": "spr_hurtbox",
-    "path": "sprites/spr_hurtbox/spr_hurtbox.yy"
+    "path": "sprites/spr_hurtbox/spr_hurtbox.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Gimmicks",
+    "path": "folders/Objects/Level Stuff/Gimmicks.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_grindrail",
-  "tags": [],
-  "resourceType": "GMObject"
 }

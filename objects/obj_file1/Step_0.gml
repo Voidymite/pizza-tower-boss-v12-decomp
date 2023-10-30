@@ -7,9 +7,17 @@ if (santaed == 0)
     {
         visible = true
         layer_sprite_change(s, spr_phonepicked)
+		with (obj_tv)
+		{
+			message = "PLAY";
+		}
     }
     else
     {
+		with (obj_tv)
+		{
+			message = "";
+		}
         visible = false
         layer_sprite_change(s, spr_phone)
     }

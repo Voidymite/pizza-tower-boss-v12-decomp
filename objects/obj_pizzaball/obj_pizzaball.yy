@@ -1,19 +1,22 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_pizzaball",
   "spriteId": {
     "name": "spr_pizzaball_idle",
-    "path": "sprites/spr_pizzaball_idle/spr_pizzaball_idle.yy"
+    "path": "sprites/spr_pizzaball_idle/spr_pizzaball_idle.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": {
     "name": "spr_player_mask",
-    "path": "sprites/spr_player_mask/spr_player_mask.yy"
+    "path": "sprites/spr_player_mask/spr_player_mask.yy",
   },
   "persistent": false,
   "parentObjectId": {
     "name": "obj_baddie",
-    "path": "objects/obj_baddie/obj_baddie.yy"
+    "path": "objects/obj_baddie/obj_baddie.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -28,78 +31,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 0,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 1,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 2,
-      "eventType": 2,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 2,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 3,
-      "collisionObjectId": null,
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    },
-    {
-      "isDnD": false,
-      "eventNum": 0,
-      "eventType": 4,
-      "collisionObjectId": {
-        "name": "obj_ballgoal",
-        "path": "objects/obj_ballgoal/obj_ballgoal.yy"
-      },
-      "resourceVersion": "1.0",
-      "name": "",
-      "tags": [],
-      "resourceType": "GMEvent"
-    }
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":2,"eventType":2,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ballgoal","path":"objects/obj_ballgoal/obj_ballgoal.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Enemy",
+    "path": "folders/Objects/Baddie/Enemy.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_pizzaball",
-  "tags": [],
-  "resourceType": "GMObject"
 }

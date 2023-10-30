@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_railh2",
   "spriteId": {
     "name": "spr_railh2",
-    "path": "sprites/spr_railh2/spr_railh2.yy"
+    "path": "sprites/spr_railh2/spr_railh2.yy",
   },
   "solid": false,
   "visible": true,
@@ -10,7 +13,7 @@
   "persistent": false,
   "parentObjectId": {
     "name": "obj_solid",
-    "path": "objects/obj_solid/obj_solid.yy"
+    "path": "objects/obj_solid/obj_solid.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -28,11 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Building Blocks",
+    "path": "folders/Objects/Level Stuff/Building Blocks.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_railh2",
-  "tags": [],
-  "resourceType": "GMObject"
 }

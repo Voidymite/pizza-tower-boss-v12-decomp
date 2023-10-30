@@ -1,7 +1,10 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_title",
   "spriteId": {
     "name": "spr_title",
-    "path": "sprites/spr_title/spr_title.yy"
+    "path": "sprites/spr_title/spr_title.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy"
+    "name": "Miscellaneous",
+    "path": "folders/Objects/Miscellaneous.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "obj_title",
-  "tags": [],
-  "resourceType": "GMObject"
 }
